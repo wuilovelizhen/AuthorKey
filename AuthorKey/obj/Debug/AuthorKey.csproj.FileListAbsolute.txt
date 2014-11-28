@@ -79,3 +79,6 @@ D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.
 D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWhole.resources
 D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWriting.resources
 D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csproj.GenerateResource.Cache
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe.config
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.exe
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.pdb
