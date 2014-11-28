@@ -1,0 +1,62 @@
+H:\Project\NProject\Bin\Release\ZetaHtmlEditControl.dll.config
+H:\Project\NProject\Bin\Release\ZetaHtmlEditControl.dll
+H:\Project\NProject\Bin\Release\ZetaHtmlEditControl.pdb
+H:\Project\NProject\Bin\Release\de\ZetaHtmlEditControl.resources.dll
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\Control.csprojResolveAssemblyReference.cache
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\ZetaHtmlEditControl.UI.EditControlDerives.HtmlEditControl.resources
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlEditorCellPropertiesForm.resources
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlEditorTableNewForm.resources
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\ZetaHtmlEditControl.UI.HtmlEditUserControl.resources
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlSourceTextEditForm.resources
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\ZetaHtmlEditControl.Properties.Resources.resources
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\ZetaHtmlEditControl.UI.EditControlDerives.HtmlEditControl.de.resources
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlEditorCellPropertiesForm.de.resources
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlEditorTableNewForm.de.resources
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\ZetaHtmlEditControl.UI.HtmlEditUserControl.de.resources
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlSourceTextEditForm.de.resources
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\ZetaHtmlEditControl.Properties.Resources.de.resources
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\Control.csproj.GenerateResource.Cache
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\de\ZetaHtmlEditControl.resources.dll
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\ZetaHtmlEditControl.dll
+H:\Project\NProject\ZetaHtmlEditControl\Control\obj\Release\ZetaHtmlEditControl.pdb
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.EditControlDerives.HtmlEditControl.resources
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlEditorCellPropertiesForm.resources
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlEditorTableNewForm.resources
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.HtmlEditUserControl.resources
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlSourceTextEditForm.resources
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.Properties.Resources.resources
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.EditControlDerives.HtmlEditControl.de.resources
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlEditorCellPropertiesForm.de.resources
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlEditorTableNewForm.de.resources
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.HtmlEditUserControl.de.resources
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlSourceTextEditForm.de.resources
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.Properties.Resources.de.resources
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\Control.csproj.GenerateResource.Cache
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.pdb
+H:\Project\NProject\AuthorSystem\Bin\Release\ZetaHtmlEditControl.dll.config
+H:\Project\NProject\AuthorSystem\Bin\Release\ZetaHtmlEditControl.dll
+H:\Project\NProject\AuthorSystem\Bin\Release\ZetaHtmlEditControl.pdb
+H:\Project\NProject\AuthorSystem\Bin\Release\de\ZetaHtmlEditControl.resources.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\Control\obj\Release\de\ZetaHtmlEditControl.resources.dll
+D:\Term 4 Control\AuthorSystem\Bin\Release\ZetaHtmlEditControl.dll.config
+D:\Term 4 Control\AuthorSystem\Bin\Release\ZetaHtmlEditControl.dll
+D:\Term 4 Control\AuthorSystem\Bin\Release\ZetaHtmlEditControl.pdb
+D:\Term 4 Control\AuthorSystem\Bin\Release\de\ZetaHtmlEditControl.resources.dll
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\Control.csprojResolveAssemblyReference.cache
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.EditControlDerives.HtmlEditControl.resources
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlEditorCellPropertiesForm.resources
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlEditorTableNewForm.resources
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.HtmlEditUserControl.resources
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlSourceTextEditForm.resources
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.Properties.Resources.resources
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.EditControlDerives.HtmlEditControl.de.resources
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlEditorCellPropertiesForm.de.resources
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlEditorTableNewForm.de.resources
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.HtmlEditUserControl.de.resources
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.UI.Tools.HtmlSourceTextEditForm.de.resources
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.Properties.Resources.de.resources
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\Control.csproj.GenerateResource.Cache
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\de\ZetaHtmlEditControl.resources.dll
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.dll
+D:\Term 4 Control\AuthorSystem\AuthorKey\Control\obj\Release\ZetaHtmlEditControl.pdb
