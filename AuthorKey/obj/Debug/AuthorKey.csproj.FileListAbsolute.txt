@@ -20,16 +20,66 @@ D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.exe
 D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.pdb
 D:\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\Newtonsoft.Json.dll
 D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csprojResolveAssemblyReference.cache
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe.config
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.pdb
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\Newtonsoft.Json.dll
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\System.Windows.Forms.Ribbon35.dll
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\ZetaHtmlEditControl.dll
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\HttpServer.dll
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\HtmlAgilityPack.dll
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\SgmlReaderDll.dll
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\ZetaHtmlEditControl.pdb
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\System.Windows.Forms.Ribbon35.pdb
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\HtmlAgilityPack.pdb
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\HtmlAgilityPack.xml
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\de\ZetaHtmlEditControl.resources.dll
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csprojResolveAssemblyReference.cache
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmAIProcess.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmFrame.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmLogIn.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmMain.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmSearch.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.NaviMain.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.Properties.Resources.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.MainForm.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserBackground.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserCatalog.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserDiagram.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserFigure.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserProgram.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserSearch.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWhole.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWriting.resources
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csproj.GenerateResource.Cache
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.exe
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.pdb
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\NPOI.OOXML.dll
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\NPOI.OpenXml4Net.dll
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\NPOI.dll
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\NPOI.xml
+E:\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.ImpExp.frmImport.resources
+G:\MySource\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe.config
+G:\MySource\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.exe
+G:\MySource\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.pdb
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe.config
-H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.exe
-H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.pdb
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.pdb
-H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\Newtonsoft.Json.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\NPOI.OOXML.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\NPOI.OpenXml4Net.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\System.Windows.Forms.Ribbon35.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\NPOI.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\NPOI.OpenXmlFormats.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\NPOI.xml
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csprojResolveAssemblyReference.cache
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmAIProcess.resources
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmLogIn.resources
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmMain.resources
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmSearch.resources
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.ImpExp.frmImport.resources
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.Properties.Resources.resources
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserBackground.resources
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserCatalog.resources
@@ -40,45 +90,14 @@ H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFro
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWhole.resources
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWriting.resources
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csproj.GenerateResource.Cache
-H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmFrame.resources
-H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csprojResolveAssemblyReference.cache
-H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\ZetaHtmlEditControl.dll
-H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\HttpServer.dll
-H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\HtmlAgilityPack.dll
-H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\SgmlReaderDll.dll
-H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\ZetaHtmlEditControl.pdb
-H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\HtmlAgilityPack.pdb
-H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\HtmlAgilityPack.xml
-H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\de\ZetaHtmlEditControl.resources.dll
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe.config
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.exe
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.pdb
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.pdb
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\ZetaHtmlEditControl.dll
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\HttpServer.dll
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\HtmlAgilityPack.dll
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\SgmlReaderDll.dll
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\ZetaHtmlEditControl.pdb
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\HtmlAgilityPack.pdb
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\HtmlAgilityPack.xml
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\de\ZetaHtmlEditControl.resources.dll
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csprojResolveAssemblyReference.cache
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmAIProcess.resources
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmFrame.resources
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmLogIn.resources
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmMain.resources
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmSearch.resources
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.Properties.Resources.resources
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserBackground.resources
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserCatalog.resources
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserDiagram.resources
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserFigure.resources
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserProgram.resources
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserSearch.resources
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWhole.resources
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWriting.resources
-D:\Term 4 Control\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csproj.GenerateResource.Cache
-E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe.config
-E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.exe
-E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.pdb
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.exe
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.pdb
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.HTMLTextBox.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.HTMLTextBox.pdb
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Controller.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Core.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Model.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Controller.pdb
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Core.pdb
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Model.pdb
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.MainForm.resources

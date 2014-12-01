@@ -29,28 +29,17 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.htmlEditor = new ZetaHtmlEditControl.UI.HtmlEditUserControl();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel1.Controls.Add(this.htmlEditor);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(331, 286);
             this.panel1.TabIndex = 0;
-            // 
-            // htmlEditor
-            // 
-            this.htmlEditor.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.htmlEditor.IsToolbarVisible = true;
-            this.htmlEditor.Location = new System.Drawing.Point(0, 0);
-            this.htmlEditor.Name = "htmlEditor";
-            this.htmlEditor.Size = new System.Drawing.Size(329, 284);
-            this.htmlEditor.TabIndex = 0;
             // 
             // UserWriting
             // 
@@ -68,6 +57,5 @@
         #endregion
 
         private System.Windows.Forms.Panel panel1;
-        public ZetaHtmlEditControl.UI.HtmlEditUserControl htmlEditor;
     }
 }

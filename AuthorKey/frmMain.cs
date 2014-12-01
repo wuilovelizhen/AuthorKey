@@ -1,5 +1,4 @@
-﻿using AuthorKey.SqlConn;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Drawing;
@@ -7,9 +6,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using REFSQLite= System.Data.SQLite;
-using System.Data;
-using AuthorKey.Mod;
 namespace AuthorKey
 {
     public partial class frmMain : Form
@@ -17,7 +13,7 @@ namespace AuthorKey
         public static UserFrom.UserWriting Uwr;
         public static UserFrom.UserCatalog Uc;
         public static UserFrom.UserWhole Uwh;
-      
+
         string BookID = "";
         public frmMain()
         {
@@ -33,7 +29,7 @@ namespace AuthorKey
             }
             catch (Exception ee)
             {
-                System.Console.Write(ee.Message);//ssass
+                System.Console.Write(ee.Message);
             }
             finally
             {
@@ -53,17 +49,17 @@ namespace AuthorKey
         }
         public bool InitalBook()
         {
-            //Array AlList = new Array();
-            System.Data.DataTable Dt = new System.Data.DataTable();
-            string SqlCommText = "Select * From Book";
-            Dt = SQLiteHelper.ExecuteDataTable(SqlCommText);
-            if (Dt != null && Dt.Rows.Count > 0)
-            {
-                cboBook.ComboBox.DataSource = Dt;
-                cboBook.ComboBox.DisplayMember = "BookName";
-                cboBook.ComboBox.ValueMember = "BookID";
-            }
-            BookID = cboBook.ComboBox.SelectedValue.ToString();
+            ////Array AlList = new Array();
+            //System.Data.DataTable Dt = new System.Data.DataTable();
+            //string SqlCommText = "Select * From Book";
+            //Dt = SQLiteHelper.ExecuteDataTable(SqlCommText);
+            //if (Dt != null && Dt.Rows.Count > 0)
+            //{
+            //    cboBook.ComboBox.DataSource = Dt;
+            //    cboBook.ComboBox.DisplayMember = "BookName";
+            //    cboBook.ComboBox.ValueMember = "BookID";
+            //}
+            //BookID = cboBook.ComboBox.SelectedValue.ToString();
             return true;
         }
         private void TsmiFigure_Click(object sender, EventArgs e)
@@ -108,24 +104,58 @@ namespace AuthorKey
         /// <param name="e"></param>
         private void TsmiLocSave_Click(object sender, EventArgs e)
         {
-            string HtmlText = Uwr.htmlEditor.HtmlEditControl.DocumentText;
-            DataTable dt;
-            int Ret = 0;
-            dt = SQLiteHelper.ExecuteDataTable("Select top 0 BookID, VolumeKey,ChapterKey,Comment from Charpt");
-            if (dt != null)
-            {
-                 dt.Rows.Clear();
-                 dt.Rows.Add(dt.NewRow());
-                 dt.Rows[0]["BookID"] = BookID;
-                 dt.Rows[0]["VolumeKey"] = Uc.VolumeKey;
-                 dt.Rows[0]["ChapterKey"] = Uc.ChapterKey;
-                 dt.Rows[0]["Comment"] = HtmlText;
-                string[] strlist="BookID,VolumeKey,ChapterKey".Split(',');
-                Ret = ModFunction.AutoUpdateOrInsert(dt, strlist, "Charpt");
-            }
-           
-            if (Ret > 0)
-            { MessageBox.Show("本地保存成功！"); }
+            //string oldString = @"'";
+            //string NewString = @"''";
+            //string SqlCommText = "Select BookID from Charpt  Where BookID='" + BookID + "' And VolumeKey='" + Uc.VolumeKey + "' And ChapterKey='" + Uc.ChapterKey + "'";
+            //System.Data.DataTable Dt = SQLiteHelper.ExecuteDataTable(SqlCommText);
+            //int Ret = 0;
+            //if (Dt!=null && Dt.Rows.Count > 0)
+            //{
+            //    //SqlCommText = "Update Charpt Set Comment='" + HtmlText.Replace(oldString, NewString) + "' Where BookID='" + BookID + "' And VolumeKey='" + Uc.VolumeKey + "' And ChapterKey='" + Uc.ChapterKey + "'";
+            //    Ret = SQLiteHelper.ExecuteNonQuery(SqlCommText);
+            //}
+            //else
+            //{
+            //    //SqlCommText = "Insert into Charpt (BookID,VolumeKey,ChapterKey,Comment) values('" + BookID + "','" + Uc.VolumeKey + "','" + Uc.ChapterKey + "','" + HtmlText.Replace(oldString, NewString) + "')";
+            //    Ret = SQLiteHelper.ExecuteNonQuery(SqlCommText);
+            //}
+            //if (Ret > 0)
+            //{ MessageBox.Show("本地保存成功！"); }
+        }
+
+        private void wordToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //Microsoft.Office.Interop.Word.Application WordApp = new Microsoft.Office.Interop.Word.Application();
+            ////Microsoft.Office.Interop.Word.Document aDoc;
+            ////Type wordType = WordApp.GetType();
+
+            //ofd.Filter = "Doc Files(*.Doc;*.Docx)|*.Doc;*.Docx";
+            //ofd.Multiselect = false;
+            //if (ofd.ShowDialog() == DialogResult.OK)
+            //{
+            //    object fileName = ofd.FileName; //文件名称
+            //    //object nullobj = System.Reflection.Missing.Value;
+            //    //Microsoft.Office.Interop.Word.Document doc = WordApp.Documents.Open(
+            //    //ref fileName, ref nullobj, ref nullobj,
+            //    //                      ref nullobj, ref nullobj, ref nullobj,
+            //    //                      ref nullobj, ref nullobj, ref nullobj,
+            //    //                      ref nullobj, ref nullobj, ref nullobj);
+            //    //doc.ActiveWindow.Selection.WholeStory();
+            //    //doc.ActiveWindow.Selection.Copy();
+
+            //    //IDataObject data = Clipboard.GetDataObject();
+            //    //// 退出 Word
+            //    //wordType.InvokeMember("Quit", System.Reflection.BindingFlags.InvokeMethod, null, WordApp, null);
+            //    ////垃圾回收
+            //    //GC.Collect();
+            //    //GC.WaitForPendingFinalizers();
+            //    //string txtFileContent = data.GetData(DataFormats.Text).ToString();
+            //    //doc.Close();
+            //    WordAPI Wapi = new WordAPI(fileName);
+            //    string aaa = Wapi.getText();
+            //    string bbb = Wapi.getDocument();
+            //    Wapi.Exit();
+            //}
         }
     }
 }

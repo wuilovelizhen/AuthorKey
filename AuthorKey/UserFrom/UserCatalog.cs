@@ -7,8 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using REFSQLite = System.Data.SQLite;
-using AuthorKey.SqlConn;
 using AuthorKey;
 using System.Reflection;
 //========================================
@@ -60,65 +58,65 @@ namespace AuthorKey.UserFrom
         private void LoadCatalog(string BookID)
         {
              //Array AlList = new Array();
-            System.Data.DataTable Dt = new System.Data.DataTable();
-            string SqlCommandText = "Select * From Catalog Where BookID='" + BookID + "'"; ;
-            Dt = SQLiteHelper.ExecuteDataTable(SqlCommandText);
-            if (Dt != null && Dt.Rows.Count>0)
-            {
-                TreeViewAddNode(tvCatalog, Dt);
-            }
+            //System.Data.DataTable Dt = new System.Data.DataTable();
+            //string SqlCommandText = "Select * From Catalog Where BookID='" + BookID + "'"; ;
+            //Dt = SQLiteHelper.ExecuteDataTable(SqlCommandText);
+            //if (Dt != null && Dt.Rows.Count>0)
+            //{
+            //    TreeViewAddNode(tvCatalog, Dt);
+            //}
         }
         private bool TreeViewAddNode(TreeView tv,DataTable Dt)
         {
-            NumFormat nf = new NumFormat();
-            DataRow[] Dr = Dt.Select(" VolumeName<>''", "VolumeKey ASC");
-            if (Dr.Length > 0)
-            {
-                tv.BeginUpdate();
-                for (int i = 0; i < Dr.Length; i++)
-                {
-                    tvCatalog.Nodes.Add(Dr[i]["VolumeKey"].ToString(), "第" + nf.NumToChn(Dr[i]["VolumeKey"].ToString()) +"卷 "+ Dr[i]["VolumeName"].ToString());
-                    tvCatalog.Nodes[i].ContextMenuStrip = m_strip2;
-                    TreeViewAddCNode(tvCatalog.Nodes[i], Dt);
-                }
-                tv.EndUpdate();
-            }
+            //NumFormat nf = new NumFormat();
+            //DataRow[] Dr = Dt.Select(" VolumeName<>''", "VolumeKey ASC");
+            //if (Dr.Length > 0)
+            //{
+            //    tv.BeginUpdate();
+            //    for (int i = 0; i < Dr.Length; i++)
+            //    {
+            //        tvCatalog.Nodes.Add(Dr[i]["VolumeKey"].ToString(), "第" + NumFormat.NumToChn(Dr[i]["VolumeKey"].ToString()) +"卷 "+ Dr[i]["VolumeName"].ToString());
+            //        tvCatalog.Nodes[i].ContextMenuStrip = m_strip2;
+            //        TreeViewAddCNode(tvCatalog.Nodes[i], Dt);
+            //    }
+            //    tv.EndUpdate();
+            //}
             return true;
         }
         private bool TreeViewAddCNode(TreeNode cTn, DataTable Dt)
         {
-            NumFormat nf = new NumFormat();
-            DataRow[] Dr = Dt.Select(" VolumeKey='" + cTn.Name + "' And ChapterName<>''", "ChapterKey ASC");
-            if (Dr.Length > 0)
-            {
-                for (int i = 0; i < Dr.Length; i++)
-                {
-                    cTn.Nodes.Add(Dr[i]["ChapterKey"].ToString(), "第" + nf.NumToChn(Dr[i]["ChapterKey"].ToString()) + "章 " + Dr[i]["ChapterName"].ToString());
-                    cTn.Nodes[i].ContextMenuStrip = m_strip3;
-                }
-            }
+            //NumFormat nf = new NumFormat();
+            //DataRow[] Dr = Dt.Select(" VolumeKey='" + cTn.Name + "' And ChapterName<>''", "ChapterKey ASC");
+            //if (Dr.Length > 0)
+            //{
+            //    for (int i = 0; i < Dr.Length; i++)
+            //    {
+            //        cTn.Nodes.Add(Dr[i]["ChapterKey"].ToString(), "第" + NumFormat.NumToChn(Dr[i]["ChapterKey"].ToString()) + "章 " + Dr[i]["ChapterName"].ToString());
+            //        cTn.Nodes[i].ContextMenuStrip = m_strip3;
+            //    }
+            //}
             return true;
         }
 
         private void tvCatalog_AfterSelect(object sender, TreeViewEventArgs e)
         {
-            if (e.Node.Parent != null)
-            {
-                VolumeKey = e.Node.Parent.Name;
-                ChapterKey = e.Node.Name;
-                System.Data.DataTable Dt = new System.Data.DataTable();
-                string SqlCommText = "Select * From Charpt Where BookID='" + BookID + "' And VolumeKey ='" + e.Node.Parent.Name + "' And ChapterKey='" + e.Node.Name + "'";
-                Dt = SQLiteHelper.ExecuteDataTable(SqlCommText);
-                if (Dt != null && Dt.Rows.Count > 0)
-                {
-                    frmMain.Uwr.htmlEditor.HtmlEditControl.DocumentText = Dt.Rows[0]["Comment"].ToString();
-                }
-                else
-                {
-                    frmMain.Uwr.htmlEditor.HtmlEditControl.DocumentText = "";
-                }
+            //if (e.Node.Parent != null)
+            //{
+            //    VolumeKey = e.Node.Parent.Name;
+            //    ChapterKey = e.Node.Name;
+            //    System.Data.DataTable Dt = new System.Data.DataTable();
+            //    string SqlCommText = "Select * From Charpt Where BookID='" + BookID + "' And VolumeKey ='" + e.Node.Parent.Name + "' And ChapterKey='" + e.Node.Name + "'";
+            //    Dt = SQLiteHelper.ExecuteDataTable(SqlCommText);
+            //    if (Dt != null && Dt.Rows.Count > 0)
+            //    {
+            //        //frmMain.Uwr.htmlEditor.HtmlEditControl.DocumentText = Dt.Rows[0]["Comment"].ToString();
+            //    }
+            //    else
+            //    {
+            //        //frmMain.Uwr.htmlEditor.HtmlEditControl.DocumentText = "";
+            //    }
 
-            }
+            //}
         }
         private void IniContextMenuStrip()
         { 

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using AuthorKey.ImpExp;
 
 namespace AuthorKey
 {
@@ -16,7 +17,7 @@ namespace AuthorKey
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMain());
+            Application.Run(new frmImport());
         }
     }
 }

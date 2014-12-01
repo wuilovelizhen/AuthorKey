@@ -1,0 +1,5 @@
+﻿AuthorKey 主程序（主要显示界面相关内容）
+AuthorKey.Controller(负责操作，界面传递过来的操作相关指令,每个表自己独立一个[表名+Controller])
+AuthorKey.Core(公共方法，核心相关方法，包含整体系统所需要)
+AuthorKey.DataBase(数据库Helper和基础重写方法，如DataTable，DataSet，构建表机构，系统表等的操作)
+AuthorKey.Model(交互Controller的操作指令后，读取和更新数据库的操作，每个表自己独立一个[表名+Model])

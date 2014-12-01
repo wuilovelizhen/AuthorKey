@@ -1,0 +1,10 @@
+F:\code\Code\Sample\bin\Sample.exe
+F:\code\Code\Sample\bin\Sample.pdb
+F:\code\Code\Sample\bin\McDull.Windows.Forms.dll
+F:\code\Code\Sample\bin\McDull.Windows.Forms.pdb
+F:\code\Code\Sample\obj\Release\Sample.csprojResolveAssemblyReference.cache
+F:\code\Code\Sample\obj\Release\Sample.MailSender.resources
+F:\code\Code\Sample\obj\Release\Sample.Properties.Resources.resources
+F:\code\Code\Sample\obj\Release\Sample.csproj.GenerateResource.Cache
+F:\code\Code\Sample\obj\Release\Sample.exe
+F:\code\Code\Sample\obj\Release\Sample.pdb

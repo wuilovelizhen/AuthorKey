@@ -1,0 +1,13 @@
+E:\AuthorSystem\SourceCode\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon35.dll
+E:\AuthorSystem\SourceCode\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon35.pdb
+E:\AuthorSystem\SourceCode\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon35.dll
+E:\AuthorSystem\SourceCode\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon35.pdb
+E:\AuthorSystem\AuthorKey\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon35.dll
+E:\AuthorSystem\AuthorKey\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon35.pdb
+E:\AuthorSystem\AuthorKey\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon35.dll
+E:\AuthorSystem\AuthorKey\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon35.pdb
+H:\Project\NProject\AuthorSystem\AuthorKey\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon35.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon35.pdb
+H:\Project\NProject\AuthorSystem\AuthorKey\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon35.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon35.pdb
+H:\Project\NProject\AuthorSystem\AuthorKey\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon35.csprojResolveAssemblyReference.cache

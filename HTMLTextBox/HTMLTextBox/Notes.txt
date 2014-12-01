@@ -1,0 +1,3 @@
+﻿AuthorKey.HTMLTextBox
+ 专门处理HTML编辑器设计的相关处理
+HTML格式的读取，格式，样式,保存等基础相关内容

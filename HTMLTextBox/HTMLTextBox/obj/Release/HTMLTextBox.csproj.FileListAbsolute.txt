@@ -1,0 +1,8 @@
+F:\code\Code\HTMLTextBox\bin\McDull.Windows.Forms.dll
+F:\code\Code\HTMLTextBox\bin\McDull.Windows.Forms.pdb
+F:\code\Code\HTMLTextBox\obj\Release\HTMLTextBox.csprojResolveAssemblyReference.cache
+F:\code\Code\HTMLTextBox\obj\Release\HTMLTextBox.csproj.ResolveComReference.cache
+F:\code\Code\HTMLTextBox\obj\Release\McDull.Windows.Forms.HTMLTextBox.resources
+F:\code\Code\HTMLTextBox\obj\Release\HTMLTextBox.csproj.GenerateResource.Cache
+F:\code\Code\HTMLTextBox\obj\Release\McDull.Windows.Forms.dll
+F:\code\Code\HTMLTextBox\obj\Release\McDull.Windows.Forms.pdb

@@ -92,6 +92,7 @@
             this.系统主题ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.系统音乐ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.系统设定ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ofd = new System.Windows.Forms.OpenFileDialog();
             ((System.ComponentModel.ISupportInitialize)(this.splMain)).BeginInit();
             this.splMain.Panel1.SuspendLayout();
             this.splMain.SuspendLayout();
@@ -208,27 +209,27 @@
             // TsmiProgram
             // 
             this.TsmiProgram.Name = "TsmiProgram";
-            this.TsmiProgram.Size = new System.Drawing.Size(152, 22);
+            this.TsmiProgram.Size = new System.Drawing.Size(112, 22);
             this.TsmiProgram.Text = "大纲";
             this.TsmiProgram.Click += new System.EventHandler(this.TsmiProgram_Click);
             // 
             // TsmiBackground
             // 
             this.TsmiBackground.Name = "TsmiBackground";
-            this.TsmiBackground.Size = new System.Drawing.Size(152, 22);
+            this.TsmiBackground.Size = new System.Drawing.Size(112, 22);
             this.TsmiBackground.Text = "背景";
             // 
             // TsmiFigure
             // 
             this.TsmiFigure.Name = "TsmiFigure";
-            this.TsmiFigure.Size = new System.Drawing.Size(152, 22);
+            this.TsmiFigure.Size = new System.Drawing.Size(112, 22);
             this.TsmiFigure.Text = "角色";
             this.TsmiFigure.Click += new System.EventHandler(this.TsmiFigure_Click);
             // 
             // TsmiDiagram
             // 
             this.TsmiDiagram.Name = "TsmiDiagram";
-            this.TsmiDiagram.Size = new System.Drawing.Size(152, 22);
+            this.TsmiDiagram.Size = new System.Drawing.Size(112, 22);
             this.TsmiDiagram.Text = "关系图";
             this.TsmiDiagram.Click += new System.EventHandler(this.TsmiDiagram_Click);
             // 
@@ -252,49 +253,49 @@
             this.朝代ToolStripMenuItem,
             this.称谓ToolStripMenuItem});
             this.人物ToolStripMenuItem.Name = "人物ToolStripMenuItem";
-            this.人物ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.人物ToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
             this.人物ToolStripMenuItem.Text = "角色";
             // 
             // 人物ToolStripMenuItem1
             // 
             this.人物ToolStripMenuItem1.Name = "人物ToolStripMenuItem1";
-            this.人物ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.人物ToolStripMenuItem1.Size = new System.Drawing.Size(124, 22);
             this.人物ToolStripMenuItem1.Text = "历史人物";
             // 
             // 朝代ToolStripMenuItem
             // 
             this.朝代ToolStripMenuItem.Name = "朝代ToolStripMenuItem";
-            this.朝代ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.朝代ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.朝代ToolStripMenuItem.Text = "朝代";
             // 
             // 称谓ToolStripMenuItem
             // 
             this.称谓ToolStripMenuItem.Name = "称谓ToolStripMenuItem";
-            this.称谓ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.称谓ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.称谓ToolStripMenuItem.Text = "称谓";
             // 
             // 政治ToolStripMenuItem
             // 
             this.政治ToolStripMenuItem.Name = "政治ToolStripMenuItem";
-            this.政治ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.政治ToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
             this.政治ToolStripMenuItem.Text = "政治";
             // 
             // 宗教ToolStripMenuItem
             // 
             this.宗教ToolStripMenuItem.Name = "宗教ToolStripMenuItem";
-            this.宗教ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.宗教ToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
             this.宗教ToolStripMenuItem.Text = "宗教";
             // 
             // 思想ToolStripMenuItem
             // 
             this.思想ToolStripMenuItem.Name = "思想ToolStripMenuItem";
-            this.思想ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.思想ToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
             this.思想ToolStripMenuItem.Text = "思想";
             // 
             // 西方ToolStripMenuItem
             // 
             this.西方ToolStripMenuItem.Name = "西方ToolStripMenuItem";
-            this.西方ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.西方ToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
             this.西方ToolStripMenuItem.Text = "西方";
             // 
             // 东方ToolStripMenuItem
@@ -302,7 +303,7 @@
             this.东方ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.丹药ToolStripMenuItem});
             this.东方ToolStripMenuItem.Name = "东方ToolStripMenuItem";
-            this.东方ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.东方ToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
             this.东方ToolStripMenuItem.Text = "东方";
             // 
             // 丹药ToolStripMenuItem
@@ -474,14 +475,14 @@
             // TsmiLocSave
             // 
             this.TsmiLocSave.Name = "TsmiLocSave";
-            this.TsmiLocSave.Size = new System.Drawing.Size(152, 22);
+            this.TsmiLocSave.Size = new System.Drawing.Size(124, 22);
             this.TsmiLocSave.Text = "本地保存";
             this.TsmiLocSave.Click += new System.EventHandler(this.TsmiLocSave_Click);
             // 
             // 网络邮件ToolStripMenuItem
             // 
             this.网络邮件ToolStripMenuItem.Name = "网络邮件ToolStripMenuItem";
-            this.网络邮件ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.网络邮件ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.网络邮件ToolStripMenuItem.Text = "网络邮件";
             // 
             // 导入ToolStripMenuItem
@@ -498,25 +499,26 @@
             // execlToolStripMenuItem
             // 
             this.execlToolStripMenuItem.Name = "execlToolStripMenuItem";
-            this.execlToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.execlToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.execlToolStripMenuItem.Text = "Execl";
             // 
             // wordToolStripMenuItem
             // 
             this.wordToolStripMenuItem.Name = "wordToolStripMenuItem";
-            this.wordToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.wordToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.wordToolStripMenuItem.Text = "Word";
+            this.wordToolStripMenuItem.Click += new System.EventHandler(this.wordToolStripMenuItem_Click);
             // 
             // tXTToolStripMenuItem
             // 
             this.tXTToolStripMenuItem.Name = "tXTToolStripMenuItem";
-            this.tXTToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.tXTToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.tXTToolStripMenuItem.Text = "TXT";
             // 
             // 整本导入ToolStripMenuItem
             // 
             this.整本导入ToolStripMenuItem.Name = "整本导入ToolStripMenuItem";
-            this.整本导入ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.整本导入ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.整本导入ToolStripMenuItem.Text = "整本导入";
             // 
             // 导出ToolStripMenuItem
@@ -587,6 +589,10 @@
             this.系统设定ToolStripMenuItem.Name = "系统设定ToolStripMenuItem";
             this.系统设定ToolStripMenuItem.Size = new System.Drawing.Size(68, 25);
             this.系统设定ToolStripMenuItem.Text = "系统设定";
+            // 
+            // ofd
+            // 
+            this.ofd.FileName = "ofd";
             // 
             // frmMain
             // 
@@ -676,5 +682,6 @@
         private System.Windows.Forms.ToolStripMenuItem 西方ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 东方ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 丹药ToolStripMenuItem;
+        private System.Windows.Forms.OpenFileDialog ofd;
     }
 }

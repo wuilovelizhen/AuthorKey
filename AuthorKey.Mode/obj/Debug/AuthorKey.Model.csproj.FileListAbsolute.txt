@@ -1,0 +1,5 @@
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Mode\bin\Debug\AuthorKey.Model.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Mode\bin\Debug\AuthorKey.Model.pdb
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Mode\obj\Debug\AuthorKey.Model.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Mode\obj\Debug\AuthorKey.Model.pdb
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Mode\obj\Debug\AuthorKey.Model.csprojResolveAssemblyReference.cache

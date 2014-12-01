@@ -30,11 +30,14 @@
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.listView1 = new System.Windows.Forms.ListView();
-            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.Names = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.Gender = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.Character = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.Age = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.Relationship = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.Skill = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.LV = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.Faction = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -44,7 +47,7 @@
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox1.Location = new System.Drawing.Point(0, 0);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(326, 304);
+            this.groupBox1.Size = new System.Drawing.Size(656, 113);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "人物角色";
@@ -52,38 +55,49 @@
             // listView1
             // 
             this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
-            this.columnHeader1,
-            this.columnHeader2,
-            this.columnHeader3,
-            this.columnHeader4,
-            this.columnHeader5});
+            this.Names,
+            this.Gender,
+            this.Character,
+            this.Age,
+            this.Relationship,
+            this.Skill,
+            this.LV,
+            this.Faction});
             this.listView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.listView1.Location = new System.Drawing.Point(3, 17);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(320, 284);
+            this.listView1.Size = new System.Drawing.Size(650, 93);
             this.listView1.TabIndex = 0;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
             // 
-            // columnHeader1
+            // Names
             // 
-            this.columnHeader1.Text = "角色名称";
+            this.Names.Text = "角色名称";
             // 
-            // columnHeader2
+            // Gender
             // 
-            this.columnHeader2.Text = "性别";
+            this.Gender.Text = "性别";
             // 
-            // columnHeader3
+            // Character
             // 
-            this.columnHeader3.Text = "性格";
+            this.Character.Text = "性格";
             // 
-            // columnHeader4
+            // Age
             // 
-            this.columnHeader4.Text = "年龄";
+            this.Age.Text = "年龄";
             // 
-            // columnHeader5
+            // Relationship
             // 
-            this.columnHeader5.Text = "关系";
+            this.Relationship.Text = "关系";
+            // 
+            // LV
+            // 
+            this.LV.Text = "等级";
+            // 
+            // Faction
+            // 
+            this.Faction.Text = "派系";
             // 
             // UserFigure
             // 
@@ -91,7 +105,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.groupBox1);
             this.Name = "UserFigure";
-            this.Size = new System.Drawing.Size(326, 304);
+            this.Size = new System.Drawing.Size(656, 113);
             this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -101,10 +115,13 @@
 
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.ListView listView1;
-        private System.Windows.Forms.ColumnHeader columnHeader1;
-        private System.Windows.Forms.ColumnHeader columnHeader2;
-        private System.Windows.Forms.ColumnHeader columnHeader3;
-        private System.Windows.Forms.ColumnHeader columnHeader4;
-        private System.Windows.Forms.ColumnHeader columnHeader5;
+        private System.Windows.Forms.ColumnHeader Names;
+        private System.Windows.Forms.ColumnHeader Gender;
+        private System.Windows.Forms.ColumnHeader Character;
+        private System.Windows.Forms.ColumnHeader Age;
+        private System.Windows.Forms.ColumnHeader Relationship;
+        private System.Windows.Forms.ColumnHeader Skill;
+        private System.Windows.Forms.ColumnHeader LV;
+        private System.Windows.Forms.ColumnHeader Faction;
     }
 }

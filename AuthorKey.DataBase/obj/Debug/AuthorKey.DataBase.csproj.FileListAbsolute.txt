@@ -1,0 +1,6 @@
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.DataBase\bin\Debug\AuthorKey.DataBase.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.DataBase\bin\Debug\AuthorKey.DataBase.pdb
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.DataBase\bin\Debug\System.Data.SQLite.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.DataBase\obj\Debug\AuthorKey.DataBase.dll
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.DataBase\obj\Debug\AuthorKey.DataBase.pdb
+H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.DataBase\obj\Debug\AuthorKey.DataBase.csprojResolveAssemblyReference.cache
