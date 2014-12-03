@@ -1,3 +1,25 @@
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe.config
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.pdb
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\System.Data.SQLite.dll
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmAIProcess.resources
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmLogIn.resources
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmMain.resources
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmSearch.resources
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.Properties.Resources.resources
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserBackground.resources
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserCatalog.resources
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserDiagram.resources
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserFigure.resources
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserProgram.resources
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserSearch.resources
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWhole.resources
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWriting.resources
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csproj.GenerateResource.Cache
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.exe
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.pdb
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\Newtonsoft.Json.dll
+D:\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csprojResolveAssemblyReference.cache
 E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe.config
 E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe
 E:\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.pdb
@@ -79,9 +101,14 @@ H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Control
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Core.pdb
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Model.pdb
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.MainForm.resources
+<<<<<<< HEAD
 E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe.config
 E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.exe
 E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.pdb
+=======
+E:\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe.config
+E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.exe
+E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.pdb
 E:\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe
 E:\AuthorKey\AuthorKey\bin\Debug\AuthorKey.pdb
 E:\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Controller.dll
@@ -115,3 +142,4 @@ E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserSearch.resources
 E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWhole.resources
 E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWriting.resources
 E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csproj.GenerateResource.Cache
+>>>>>>> 90b7d4a1990891fb4b962cc9d4076d4e73baaefe
