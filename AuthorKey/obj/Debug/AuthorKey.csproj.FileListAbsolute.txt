@@ -148,3 +148,6 @@ E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserSearch.resources
 E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWhole.resources
 E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWriting.resources
 E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csproj.GenerateResource.Cache
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.DataBase.dll
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\System.Data.SQLite.dll
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.DataBase.pdb
