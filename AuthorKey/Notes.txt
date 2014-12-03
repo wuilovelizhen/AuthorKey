@@ -3,3 +3,5 @@ AuthorKey.Controller(负责操作，界面传递过来的操作相关指令,每�
 AuthorKey.Core(公共方法，核心相关方法，包含整体系统所需要)
 AuthorKey.DataBase(数据库Helper和基础重写方法，如DataTable，DataSet，构建表机构，系统表等的操作)
 AuthorKey.Model(交互Controller的操作指令后，读取和更新数据库的操作，每个表自己独立一个[表名+Model])
+This add by DEO, Need check for below:
+"被引用项目“AuthorKey.DataBase”的目标为高于此项目的当前目标框架（4.0）的框架版本（4.5）.如果此项目的目标框架之外的程序集中的类型被依赖链接中的任何项目使用，则上诉情况可能会导致生成失败。"
