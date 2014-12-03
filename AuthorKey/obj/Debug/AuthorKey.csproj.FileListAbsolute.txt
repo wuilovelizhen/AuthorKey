@@ -115,3 +115,36 @@ E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserSearch.resources
 E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWhole.resources
 E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWriting.resources
 E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csproj.GenerateResource.Cache
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.pdb
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Controller.dll
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Core.dll
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.HTMLTextBox.dll
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Model.dll
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\NPOI.OOXML.dll
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\NPOI.dll
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\NPOI.OpenXml4Net.dll
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Controller.pdb
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Core.pdb
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Model.pdb
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.HTMLTextBox.pdb
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\NPOI.xml
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csprojResolveAssemblyReference.cache
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmAIProcess.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmLogIn.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmMain.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmSearch.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.ImpExp.frmImport.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.MainForm.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.Properties.Resources.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserBackground.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserCatalog.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserDiagram.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserFigure.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserProgram.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserSearch.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWhole.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWriting.resources
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csproj.GenerateResource.Cache

@@ -191,9 +191,11 @@ namespace AuthorKey.ImpExp
 
         private void chkTilte_CheckedChanged(object sender, EventArgs e)
         {
-            string Id = listView1.FocusedItem.Tag.ToString();
-            this.htmlTextBox1.Text = CreateBuiltString(Id);
-
+            if (listView1.FocusedItem != null)
+            {
+                string Id = listView1.FocusedItem.Tag.ToString();
+                this.htmlTextBox1.Text = CreateBuiltString(Id);
+            }
         }
        
     }
