@@ -1,2 +1,5 @@
 ﻿AuthorKey.DataBase（数据操作）表示应用程序数据操作相关内容（比如数据库更新，查询）。
 查询相关表，查询操作，每个表需在AuthorKey.Model建立一个Table Model表名进行操作
+
+采用数据库版本：SQLite
+引用文件在\References\SQLite下面

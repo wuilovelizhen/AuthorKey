@@ -6,3 +6,11 @@ H:\Project\NProject\AuthorSystem\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\Aut
 H:\Project\NProject\AuthorSystem\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.dll
 H:\Project\NProject\AuthorSystem\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.pdb
 H:\Project\NProject\AuthorSystem\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.csprojResolveAssemblyReference.cache
+E:\AuthorKey\HTMLTextBox\HTMLTextBox\bin\AuthorKey.HTMLTextBox.dll
+E:\AuthorKey\HTMLTextBox\HTMLTextBox\bin\AuthorKey.HTMLTextBox.pdb
+E:\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.csprojResolveAssemblyReference.cache
+E:\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.csproj.ResolveComReference.cache
+E:\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\McDull.Windows.Forms.HTMLTextBox.resources
+E:\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.csproj.GenerateResource.Cache
+E:\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.dll
+E:\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.pdb
