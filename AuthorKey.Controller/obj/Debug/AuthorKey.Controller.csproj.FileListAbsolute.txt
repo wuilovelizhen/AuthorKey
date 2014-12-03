@@ -3,3 +3,8 @@ H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Controller\bin\Debug\Author
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Controller\obj\Debug\AuthorKey.Controller.dll
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Controller\obj\Debug\AuthorKey.Controller.pdb
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Controller\obj\Debug\AuthorKey.Controller.csprojResolveAssemblyReference.cache
+E:\AuthorKey\AuthorKey.Controller\bin\Debug\AuthorKey.Controller.dll
+E:\AuthorKey\AuthorKey.Controller\bin\Debug\AuthorKey.Controller.pdb
+E:\AuthorKey\AuthorKey.Controller\obj\Debug\AuthorKey.Controller.csprojResolveAssemblyReference.cache
+E:\AuthorKey\AuthorKey.Controller\obj\Debug\AuthorKey.Controller.dll
+E:\AuthorKey\AuthorKey.Controller\obj\Debug\AuthorKey.Controller.pdb
