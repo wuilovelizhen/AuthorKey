@@ -115,3 +115,6 @@ E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserSearch.resources
 E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWhole.resources
 E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWriting.resources
 E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csproj.GenerateResource.Cache
+E:\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe.config
+E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.exe
+E:\AuthorKey\AuthorKey\obj\Debug\AuthorKey.pdb
