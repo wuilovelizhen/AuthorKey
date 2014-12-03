@@ -101,3 +101,6 @@ H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Control
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Core.pdb
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Model.pdb
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey\obj\Debug\AuthorKey.MainForm.resources
+E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.exe.config
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.exe
+E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.pdb
