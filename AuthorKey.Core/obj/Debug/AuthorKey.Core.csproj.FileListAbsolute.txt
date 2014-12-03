@@ -9,14 +9,3 @@ H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Core\bin\Debug\NPOI.OpenXml
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Core\bin\Debug\ICSharpCode.SharpZipLib.dll
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Core\bin\Debug\NPOI.xml
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Core\obj\Debug\AuthorKey.Core.csprojResolveAssemblyReference.cache
-E:\AuthorKey\AuthorKey.Core\bin\Debug\AuthorKey.Core.dll
-E:\AuthorKey\AuthorKey.Core\bin\Debug\AuthorKey.Core.pdb
-E:\AuthorKey\AuthorKey.Core\bin\Debug\NPOI.dll
-E:\AuthorKey\AuthorKey.Core\bin\Debug\NPOI.OOXML.dll
-E:\AuthorKey\AuthorKey.Core\bin\Debug\NPOI.OpenXml4Net.dll
-E:\AuthorKey\AuthorKey.Core\bin\Debug\NPOI.OpenXmlFormats.dll
-E:\AuthorKey\AuthorKey.Core\bin\Debug\ICSharpCode.SharpZipLib.dll
-E:\AuthorKey\AuthorKey.Core\bin\Debug\NPOI.xml
-E:\AuthorKey\AuthorKey.Core\obj\Debug\AuthorKey.Core.csprojResolveAssemblyReference.cache
-E:\AuthorKey\AuthorKey.Core\obj\Debug\AuthorKey.Core.dll
-E:\AuthorKey\AuthorKey.Core\obj\Debug\AuthorKey.Core.pdb
