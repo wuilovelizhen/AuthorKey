@@ -8,3 +8,8 @@ E:\AuthorKey\AuthorKey.Controller\bin\Debug\AuthorKey.Controller.pdb
 E:\AuthorKey\AuthorKey.Controller\obj\Debug\AuthorKey.Controller.csprojResolveAssemblyReference.cache
 E:\AuthorKey\AuthorKey.Controller\obj\Debug\AuthorKey.Controller.dll
 E:\AuthorKey\AuthorKey.Controller\obj\Debug\AuthorKey.Controller.pdb
+E:\Git Hub\AuthorKey\AuthorKey.Controller\bin\Debug\AuthorKey.Controller.dll
+E:\Git Hub\AuthorKey\AuthorKey.Controller\bin\Debug\AuthorKey.Controller.pdb
+E:\Git Hub\AuthorKey\AuthorKey.Controller\obj\Debug\AuthorKey.Controller.csprojResolveAssemblyReference.cache
+E:\Git Hub\AuthorKey\AuthorKey.Controller\obj\Debug\AuthorKey.Controller.dll
+E:\Git Hub\AuthorKey\AuthorKey.Controller\obj\Debug\AuthorKey.Controller.pdb

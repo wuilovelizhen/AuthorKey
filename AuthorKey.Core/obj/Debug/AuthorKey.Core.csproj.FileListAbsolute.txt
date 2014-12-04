@@ -20,3 +20,10 @@ E:\AuthorKey\AuthorKey.Core\bin\Debug\NPOI.xml
 E:\AuthorKey\AuthorKey.Core\obj\Debug\AuthorKey.Core.csprojResolveAssemblyReference.cache
 E:\AuthorKey\AuthorKey.Core\obj\Debug\AuthorKey.Core.dll
 E:\AuthorKey\AuthorKey.Core\obj\Debug\AuthorKey.Core.pdb
+E:\Git Hub\AuthorKey\AuthorKey.Core\bin\Debug\AuthorKey.Core.dll
+E:\Git Hub\AuthorKey\AuthorKey.Core\bin\Debug\AuthorKey.Core.pdb
+E:\Git Hub\AuthorKey\AuthorKey.Core\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Git Hub\AuthorKey\AuthorKey.Core\bin\Debug\NPOI.xml
+E:\Git Hub\AuthorKey\AuthorKey.Core\obj\Debug\AuthorKey.Core.csprojResolveAssemblyReference.cache
+E:\Git Hub\AuthorKey\AuthorKey.Core\obj\Debug\AuthorKey.Core.dll
+E:\Git Hub\AuthorKey\AuthorKey.Core\obj\Debug\AuthorKey.Core.pdb

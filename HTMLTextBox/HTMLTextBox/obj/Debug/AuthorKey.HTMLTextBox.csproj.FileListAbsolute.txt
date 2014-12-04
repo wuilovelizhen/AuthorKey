@@ -14,3 +14,11 @@ E:\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\McDull.Windows.Forms.HTMLTextBox.
 E:\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.csproj.GenerateResource.Cache
 E:\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.dll
 E:\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.pdb
+E:\Git Hub\AuthorKey\HTMLTextBox\HTMLTextBox\bin\AuthorKey.HTMLTextBox.dll
+E:\Git Hub\AuthorKey\HTMLTextBox\HTMLTextBox\bin\AuthorKey.HTMLTextBox.pdb
+E:\Git Hub\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.csprojResolveAssemblyReference.cache
+E:\Git Hub\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.csproj.ResolveComReference.cache
+E:\Git Hub\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\McDull.Windows.Forms.HTMLTextBox.resources
+E:\Git Hub\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.csproj.GenerateResource.Cache
+E:\Git Hub\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.dll
+E:\Git Hub\AuthorKey\HTMLTextBox\HTMLTextBox\obj\Debug\AuthorKey.HTMLTextBox.pdb

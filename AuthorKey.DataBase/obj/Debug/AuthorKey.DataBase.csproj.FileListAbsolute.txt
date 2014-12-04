@@ -10,3 +10,8 @@ E:\AuthorKey\AuthorKey.DataBase\bin\Debug\System.Data.SQLite.dll
 E:\AuthorKey\AuthorKey.DataBase\obj\Debug\AuthorKey.DataBase.csprojResolveAssemblyReference.cache
 E:\AuthorKey\AuthorKey.DataBase\obj\Debug\AuthorKey.DataBase.dll
 E:\AuthorKey\AuthorKey.DataBase\obj\Debug\AuthorKey.DataBase.pdb
+E:\Git Hub\AuthorKey\AuthorKey.DataBase\bin\Debug\AuthorKey.DataBase.dll
+E:\Git Hub\AuthorKey\AuthorKey.DataBase\bin\Debug\AuthorKey.DataBase.pdb
+E:\Git Hub\AuthorKey\AuthorKey.DataBase\obj\Debug\AuthorKey.DataBase.csprojResolveAssemblyReference.cache
+E:\Git Hub\AuthorKey\AuthorKey.DataBase\obj\Debug\AuthorKey.DataBase.dll
+E:\Git Hub\AuthorKey\AuthorKey.DataBase\obj\Debug\AuthorKey.DataBase.pdb
