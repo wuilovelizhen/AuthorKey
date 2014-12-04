@@ -130,7 +130,6 @@ E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Controller.pdb
 E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Core.pdb
 E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Model.pdb
 E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.HTMLTextBox.pdb
-E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\NPOI.xml
 E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csprojResolveAssemblyReference.cache
 E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmAIProcess.resources
 E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.frmLogIn.resources
@@ -149,5 +148,4 @@ E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWhole.resources
 E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.UserFrom.UserWriting.resources
 E:\Git Hub\AuthorKey\AuthorKey\obj\Debug\AuthorKey.csproj.GenerateResource.Cache
 E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.DataBase.dll
-E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\System.Data.SQLite.dll
 E:\Git Hub\AuthorKey\AuthorKey\bin\Debug\AuthorKey.DataBase.pdb
