@@ -478,7 +478,6 @@ namespace AuthorKey.DataBase
             Ds = SQLiteHelper.ExecuteDataSet(connectionString, cmd);
             if (Ds != null && Ds.Tables[0] != null)
             {
-                int Ret = 0;
                 if (Ds.Tables[0].Rows.Count > 0)
                 {
                     Dt = Ds.Tables[0];

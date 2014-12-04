@@ -94,8 +94,7 @@ namespace AuthorKey.ImpExp
             {
                 //bool blnCatalog = true;
                 string strNum = "";
-                string[] arrNum = null;
-
+                
                 strNum = S.Substring(iStartChar + 1, iChnLength);
                 foreach (char cc in strNum)
                 {
