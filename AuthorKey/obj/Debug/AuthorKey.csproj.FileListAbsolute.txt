@@ -92,7 +92,6 @@ E:\AuthorKey\AuthorKey\bin\Debug\NPOI.OOXML.dll
 E:\AuthorKey\AuthorKey\bin\Debug\NPOI.dll
 E:\AuthorKey\AuthorKey\bin\Debug\NPOI.OpenXmlFormats.dll
 E:\AuthorKey\AuthorKey\bin\Debug\NPOI.OpenXml4Net.dll
-E:\AuthorKey\AuthorKey\bin\Debug\ICSharpCode.SharpZipLib.dll
 E:\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Controller.pdb
 E:\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Core.pdb
 E:\AuthorKey\AuthorKey\bin\Debug\AuthorKey.Model.pdb

@@ -1,0 +1,4 @@
+E:\AuthorKey\AuthorKey.Utilities\bin\Debug\AuthorKey.Utilities.dll
+E:\AuthorKey\AuthorKey.Utilities\bin\Debug\AuthorKey.Utilities.pdb
+E:\AuthorKey\AuthorKey.Utilities\obj\Debug\AuthorKey.Utilities.dll
+E:\AuthorKey\AuthorKey.Utilities\obj\Debug\AuthorKey.Utilities.pdb

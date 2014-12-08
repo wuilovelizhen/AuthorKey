@@ -1,0 +1,3 @@
+﻿AuthorKey.Utilities
+包含所有.Net的基础处理方法模块，由osChina开源代码获得
+都是类模块，实例化在AuthorKey.Core实现处理

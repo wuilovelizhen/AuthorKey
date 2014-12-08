@@ -5,6 +5,5 @@ H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Mode\obj\Debug\AuthorKey.Mo
 H:\Project\NProject\AuthorSystem\AuthorKey\AuthorKey.Mode\obj\Debug\AuthorKey.Model.csprojResolveAssemblyReference.cache
 E:\AuthorKey\AuthorKey.Mode\bin\Debug\AuthorKey.Model.dll
 E:\AuthorKey\AuthorKey.Mode\bin\Debug\AuthorKey.Model.pdb
-E:\AuthorKey\AuthorKey.Mode\obj\Debug\AuthorKey.Model.csprojResolveAssemblyReference.cache
 E:\AuthorKey\AuthorKey.Mode\obj\Debug\AuthorKey.Model.dll
 E:\AuthorKey\AuthorKey.Mode\obj\Debug\AuthorKey.Model.pdb
